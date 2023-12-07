@@ -10,7 +10,7 @@ This project is for Kaggle - Stable Diffusion - Image to Prompts competition.
 
 ## Tech Stack
 - Data Processing: Python - Pandas, Numpy
-- Modeling: Python - PyTorch, OPENClip, Transformer
+- Modeling: Python - PyTorch, OpenCLIP, Transformer
 
 ## Project Structure
 ```
