@@ -1,4 +1,4 @@
-# Kaggle_Stable_Diffusion
+# Kaggle_Stable_Diffusion_Image_to_Prompts
 
 ## Description
 This project is for Kaggle - Stable Diffusion - Image to Prompts competition.
