@@ -1,7 +1,7 @@
 # Kaggle_Stable_Diffusion_Image_to_Prompts
 
 ## Description
-A bronze medal solution for [Stable Diffusion - Image to Prompts](https://www.kaggle.com/competitions/stable-diffusion-image-to-prompts) competition on Kaggle.
+A bronze medal solution for [Stable Diffusion - Image to Prompts](https://www.kaggle.com/competitions/stable-diffusion-image-to-prompts) competition on Kaggle
 
 ## Key Features
 - Utilized open-source pre-trained language model to generate prompt texts for Stable Diffusion imaging
